@@ -1,4 +1,4 @@
-# pizza-sales-sql-analysis
+# Pizza-sales-sql-analysis
 
 ## Dataset Source
 The dataset used for this project is a pizza sales dataset source from Kaggle. It contains historical sales transaction data including order details, pizza categorie, sizes, prices and quantities.
