@@ -8,6 +8,7 @@ The dataset used for this project is a pizza sales dataset source from Kaggle. I
 - Retrieve the total number of orders placed.
 - Calculate the total revenue generation from pizza sales.
 - identify the highest-priced size order.
+- Identify the most common pizza ordered.
 - List the top 5 most ordered pizza along with their quantities.
 # Intermediate:
 - Join the necessary tables to find the total quantities of each pizza ordered.
