@@ -7,4 +7,4 @@
 - Which pizza size and categories are most popular?
 
 ## Project Outcome
-This analtsis aims to provide actionable insights to improve menu planning , marketing strategies and operational efficency.
+This analysis aims to provide actionable insights to improve menu planning , marketing strategies and operational efficiency.
