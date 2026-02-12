@@ -11,7 +11,7 @@ The dataset used for this project is a pizza sales dataset source from Kaggle. I
 - Identify the most common pizza ordered.
 - List the top 5 most ordered pizza along with their quantities.
 # Intermediate:
-- Join the necessary tables to find the total quantities of each pizza ordered.
+- Join the necessary tables to find the total quantities of each pizza categories.
 - Determine the distribution of order by hour of the day.
 - Join relevant tables to find the categories wise distribution of pizza.
 - Group the orders by date and calculate the average number of pizza ordered per day.
