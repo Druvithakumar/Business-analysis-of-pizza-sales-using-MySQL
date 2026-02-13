@@ -15,7 +15,7 @@ The dataset used for this project is a pizza sales dataset source from Kaggle. I
 - Determine the distribution of order by hour of the day.
 - Join relevant tables to find the categories wise distribution of pizza.
 - Group the orders by date and calculate the average number of pizza ordered per day.
-- Determine the top 3 most ordered pizza types based on project.
+- Determine the top 3 most ordered pizza types based on revenue.
  # Advanced: 
  - Calculate the percentage contribution of each pizza types to total revenue.
  - Analyse the cumulative revenue generated over time.
