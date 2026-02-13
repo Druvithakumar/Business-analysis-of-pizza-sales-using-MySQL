@@ -21,9 +21,6 @@ The dataset used for this project is a pizza sales dataset source from Kaggle. I
  - Analyse the cumulative revenue generated over time.
  - Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 - What is the total revenue and number of orders?
-- Which pizzas contribute the most to revenue?
-- What are the peak sales days and hours?
-- Which pizza size and categories are most popular?
 
 ## Tools Used
 - MySQL
