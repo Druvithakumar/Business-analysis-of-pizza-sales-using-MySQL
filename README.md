@@ -27,7 +27,7 @@ The dataset used for this project is a pizza sales dataset source from Kaggle. I
 
 ## Tools Used
 - MySQL
-- Tableau
+- PowerBi
 
 ## Project Outcome
 This analysis aims to provide actionable insights to improve menu planning , marketing strategies and operational efficiency.
